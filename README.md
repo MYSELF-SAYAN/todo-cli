@@ -24,7 +24,7 @@ This project marks my **first step into the Go ecosystem**. The goal was to lear
 <a name="video-demo"></a>
 ## 🎥 Video Demo
 
-📽️ [Watch the demo here]() *(Replace with the correct video link if needed)*
+📽️ [Watch the demo here]() 
 
 https://github.com/user-attachments/assets/5e883af2-f562-48a4-a500-d8617fea0848
 
